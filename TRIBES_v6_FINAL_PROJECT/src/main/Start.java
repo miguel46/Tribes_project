@@ -23,7 +23,7 @@ public class Start {
 
 	public Start(){
 
-		frame = new JFrame("Tribes - The Game");
+		frame = new JFrame("Tribes -  The Game");
 		frame.setSize(500, 250);
 		frame.setLocationRelativeTo(null);
 		frame.getContentPane().setLayout(new BorderLayout());
